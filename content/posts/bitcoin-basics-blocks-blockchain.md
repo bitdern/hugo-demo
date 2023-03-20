@@ -2,6 +2,10 @@
 title: "Bitcoin Basics Blocks Blockchain"
 date: 2023-03-19T11:48:27-05:00
 draft: false
+cover:
+  image: static/coverdemo.JPG
+  alt: "Post image"
+  caption: "Post caption"
 ---
 
 It is worthwile to push oneself to learn about the complex, more technical aspects of bitcoin -- but only insofar as one has properly grasped the basics. Whereas other posts covered topics like [hierarchical deterministic wallets](https://bitdern.com/posts/hdwallets-keys-seeds), [cryptographic primatives](https://bitdern.com/posts/priv-pub-key-sigs), and [specific](https://bitdern.com/posts/bitcoin-africa-machankura) use-cases for bitcoin, this post is meant to refocus on the basics.
