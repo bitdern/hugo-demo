@@ -1,8 +1,12 @@
 ---
 title: Biogas Bitcoin Mining
-description: "An examination of a promising technological trend that touches both bitcoin, and regenerative (responsible) agriculture."
-date: March 1, 2023
+date: 2023-03-1T11:48:27-05:00
+draft: false
+tags: ["Mining", "Energy"]
+categories: ["Bitcoin Mining"]
 ---
+
+_An examination of a promising technological trend that touches both bitcoin, and regenerative (responsible) agriculture._
 
 The bitcoin network is an incredibly robust system -- adaptable to adverse market environments, and is able to support [niche](https://bitdern.com/posts/bitcoin-africa-machankura) use cases.
 
