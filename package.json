@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fuse.js": "^6.6.2",
+    "mark.js": "^8.11.1"
+  }
+}
